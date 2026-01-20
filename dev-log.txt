@@ -14,3 +14,9 @@ Port 3000 is in use, trying another one...
 
   [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3001[22m/drawing-editor/[39m
 [2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m10:12:08 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Canvas.tsx, /src/index.css[22m
+[2m10:12:08 AM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m10:12:13 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Canvas.tsx, /src/index.css[22m
+[2m10:12:47 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Canvas.tsx, /src/index.css[22m
+[2m10:12:59 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Canvas.tsx, /src/index.css[22m
+[2m10:16:30 AM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Toolbar.tsx, /src/index.css[22m
